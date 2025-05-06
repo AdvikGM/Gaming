@@ -1,0 +1,11 @@
+body {
+  background-color: skyblue;
+}
+
+h1 {
+  width: inherit;
+}
+
+h2 {
+  font-family: monospace;
+}
